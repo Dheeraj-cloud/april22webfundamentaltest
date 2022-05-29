@@ -9,3 +9,6 @@ hosted: https://dheeraj-cloud.github.io/april22webfundamentaltest/may/Week1/Test
 
 test of 15/5/2022:
 https://dheeraj-cloud.github.io/april22webfundamentaltest/may/Week3/test.html
+
+test 22/5/2022:
+https://dheeraj-cloud.github.io/april22webfundamentaltest/may/22-05-2022/panel.html
